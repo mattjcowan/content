@@ -14,7 +14,7 @@
   "dependencies": {
     "@lokidb/full-text-search": "^2.1.0",
     "@lokidb/loki": "^2.1.0",
-    "@nuxt/types": "^2.15.2",
+    "@nuxt/types": "^2.15.4",
     "@types/js-yaml": "^4.0.0",
     "@types/xml2js": "^0.4.8",
     "change-case": "^4.1.2",
@@ -37,7 +37,7 @@
     "p-queue": "6.6.2",
     "prismjs": "^1.23.0",
     "property-information": "^5.6.0",
-    "rehype-raw": "^5.0.0",
+    "rehype-raw": "^5.1.0",
     "rehype-sort-attribute-values": "^3.0.2",
     "rehype-sort-attributes": "^3.0.2",
     "remark-autolink-headings": "^6.0.1",
@@ -50,7 +50,7 @@
     "remark-squeeze-paragraphs": "^4.0.0",
     "unified": "^9.2.1",
     "unist-builder": "^2.0.3",
-    "ws": "^7.4.3",
+    "ws": "^7.4.4",
     "xml2js": "^0.4.23"
   },
   "publishConfig": {
